@@ -8,13 +8,6 @@
     width: 80px;
 }
 
-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-}
-
 .drop-down {
     background-image: url("../img/chevron-down-solid.svg");
     width: 10px;
@@ -30,7 +23,7 @@ nav {
 .top-big-bg{
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
-    height:800px;
+    min-height: 650px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -84,4 +77,14 @@ nav {
     top: 0;
     left: 4%;
     width: 600px;
+}
+.social{
+    width: 150px;
+}
+.small-pic{
+    width: 30px;
+}
+
+.ps-fot{
+    width: 200px;
 }
