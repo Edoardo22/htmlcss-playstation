@@ -20,85 +20,98 @@
     height: 30px;
 }
 
-.top-big-bg{
+.top-big-bg {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
     min-height: 650px;
     background-repeat: no-repeat;
     background-position: center;
 }
-.bot-big-pic{
+
+.bot-big-pic {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
-.bot-big-pic-title{
+
+.bot-big-pic-title {
     width: 500px;
 }
-.preview-game{
+
+.preview-game {
     width: 100%;
     height: 100%;
     border-radius: 10%;
 }
 
-.play{
+.play {
     width: 100%;
 }
 
-.b-none{
+.b-none {
     border: none;
-    
+
 }
-.gscale{
+
+.gscale {
     filter: grayscale(1);
 }
-.gscale:hover{
+
+.gscale:hover {
     border: none;
     border-bottom: 1px solid var(--bs-primary);
     filter: grayscale(0);
 }
 
-.bg-grey{
+.bg-grey {
     background-color: #333333;
 }
-.bg-darkblue{
-  background-color:rgb(22, 28, 59);
+
+.bg-darkblue {
+    background-color: rgb(22, 28, 59);
 }
-.bg-blue{
-   background-color:rgb(0, 112, 209);
+
+.bg-blue {
+    background-color: rgb(0, 112, 209);
 }
-.ps-plus-logo{
+
+.ps-plus-logo {
     width: 50%;
 }
-.bg-lightgrey{
-  background-color:rgb(190, 188, 187);
+
+.bg-lightgrey {
+    background-color: rgb(190, 188, 187);
 }
-.bg-btn-light{
+
+.bg-btn-light {
     background-color: rgb(217, 218, 220);
 }
-.monthly-games-img{
+
+.monthly-games-img {
     position: relative;
     top: 0;
     left: 4%;
     width: 600px;
 }
-.social{
+
+.social {
     max-width: 150px;
 }
-.small-pic{
+
+.small-pic {
     width: 30px;
 }
 
-.ps-fot{
+.ps-fot {
     width: 200px;
 }
 
-.hardware img{
+.hardware img {
     max-width: 70%;
 }
 
-.game-list{
+.game-list img {
     width: 70%;
     border-radius: 12%;
 }
